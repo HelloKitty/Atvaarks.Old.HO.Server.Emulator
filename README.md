@@ -4,6 +4,8 @@
 
 This was an emulator for the Halo Online official backend. The idea was to emulate it to provide matchmaking and the various other web services seen in the Halo Online client.
 
+I have preserved a copy of the old Trello Board so that information he gathered is available [Trello board](https://trello.com/b/0edxBOLD/halo-online-backend).
+
 ## Requirements
 * Visual Studio 2013
 * .NET Framework 4.5
