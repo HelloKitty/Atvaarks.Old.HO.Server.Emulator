@@ -1,5 +1,9 @@
 # HaloOnline.Server
 
+## This is a backend emulator for Halo Online. It's unmaintained, I have no plans to continue Atvaark's work.
+
+This was an emulator for the Halo Online official backend. The idea was to emulate it to provide matchmaking and the various other web services seen in the Halo Online client.
+
 ## Requirements
 * Visual Studio 2013
 * .NET Framework 4.5
